@@ -1,6 +1,4 @@
-Claro que sí. Aquí tienes un reporte técnico detallado en formato Markdown (`.md`), estructurado para facilitar el estudio profundo de la tecnología **BISC** (*Bioelectronic Interface System to the Cortex*) basada en el documento proporcionado.
 
-Puedes copiar y pegar el siguiente bloque de código en cualquier editor de texto o visualizador de Markdown (como Obsidian, Notion, VS Code o GitHub).
 
 ***
 
